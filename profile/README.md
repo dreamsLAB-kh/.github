@@ -12,17 +12,17 @@ Our vision is to create a world where digital solutions are accessible to all. W
 
 ## Our Projects
 
-### [Charii](#)
+### [Charii](www.charii.org)
 
 Designed to help creative people raise fund quickly and easily to support their projects.
 
-### [nROOM](nroom.org)
-
-Create a multiverse GameFi from working space globally
-
-### [OunAI](ounai.org)
+### [OunAI](www.ounai.org)
 
 Your Ai information desk companion
+
+### [Banh Arb Hunter](#)
+
+### [RunnerDO](#)
 
 ## Get Involved
 
