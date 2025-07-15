@@ -10,20 +10,6 @@ At Dreamslab, we believe in the power of collaboration and innovation. Our diver
 
 Our vision is to create a world where digital solutions are accessible to all. We strive to bridge the gap between dreams and reality by providing tools and resources that empower individuals and businesses to thrive in the digital space. Through our products, we aim to foster creativity, enable connectivity, and unlock opportunities for growth.
 
-## Our Projects
-
-### [Charii](www.charii.org)
-
-Designed to help creative people raise fund quickly and easily to support their projects.
-
-### [OunAI](www.ounai.org)
-
-Your Ai information desk companion
-
-### [Banh Arb Hunter](#)
-
-### [RunnerDO](#)
-
 ## Get Involved
 
 Dreamslab is an open and inclusive community that welcomes individuals who share our passion for digital advancement. Whether you're a dreamer, designer, developer, or simply someone who wants to contribute, there are several ways you can get involved:
